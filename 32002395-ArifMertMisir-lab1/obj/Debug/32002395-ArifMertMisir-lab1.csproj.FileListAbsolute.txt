@@ -1,0 +1,20 @@
+C:\Users\Admin\Desktop\32002395-ArifMertMisir-lab1\bin\Debug\32002395-ArifMertMisir-lab1.exe.config
+C:\Users\Admin\Desktop\32002395-ArifMertMisir-lab1\bin\Debug\32002395-ArifMertMisir-lab1.exe
+C:\Users\Admin\Desktop\32002395-ArifMertMisir-lab1\bin\Debug\32002395-ArifMertMisir-lab1.pdb
+C:\Users\Admin\Desktop\32002395-ArifMertMisir-lab1\obj\Debug\32002395-ArifMertMisir-lab1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\32002395-ArifMertMisir-lab1\obj\Debug\_32002395_ArifMertMisir_lab1.Form1.resources
+C:\Users\Admin\Desktop\32002395-ArifMertMisir-lab1\obj\Debug\_32002395_ArifMertMisir_lab1.Properties.Resources.resources
+C:\Users\Admin\Desktop\32002395-ArifMertMisir-lab1\obj\Debug\32002395-ArifMertMisir-lab1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\32002395-ArifMertMisir-lab1\obj\Debug\32002395-ArifMertMisir-lab1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\32002395-ArifMertMisir-lab1\obj\Debug\32002395-ArifMertMisir-lab1.exe
+C:\Users\Admin\Desktop\32002395-ArifMertMisir-lab1\obj\Debug\32002395-ArifMertMisir-lab1.pdb
+C:\Users\Admin\Desktop\BAU\CMP4871(Visual Programming- .NET)\32002395-ArifMertMisir-lab1\bin\Debug\32002395-ArifMertMisir-lab1.exe.config
+C:\Users\Admin\Desktop\BAU\CMP4871(Visual Programming- .NET)\32002395-ArifMertMisir-lab1\bin\Debug\32002395-ArifMertMisir-lab1.exe
+C:\Users\Admin\Desktop\BAU\CMP4871(Visual Programming- .NET)\32002395-ArifMertMisir-lab1\bin\Debug\32002395-ArifMertMisir-lab1.pdb
+C:\Users\Admin\Desktop\BAU\CMP4871(Visual Programming- .NET)\32002395-ArifMertMisir-lab1\obj\Debug\32002395-ArifMertMisir-lab1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\BAU\CMP4871(Visual Programming- .NET)\32002395-ArifMertMisir-lab1\obj\Debug\_32002395_ArifMertMisir_lab1.Form1.resources
+C:\Users\Admin\Desktop\BAU\CMP4871(Visual Programming- .NET)\32002395-ArifMertMisir-lab1\obj\Debug\_32002395_ArifMertMisir_lab1.Properties.Resources.resources
+C:\Users\Admin\Desktop\BAU\CMP4871(Visual Programming- .NET)\32002395-ArifMertMisir-lab1\obj\Debug\32002395-ArifMertMisir-lab1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\BAU\CMP4871(Visual Programming- .NET)\32002395-ArifMertMisir-lab1\obj\Debug\32002395-ArifMertMisir-lab1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BAU\CMP4871(Visual Programming- .NET)\32002395-ArifMertMisir-lab1\obj\Debug\32002395-ArifMertMisir-lab1.exe
+C:\Users\Admin\Desktop\BAU\CMP4871(Visual Programming- .NET)\32002395-ArifMertMisir-lab1\obj\Debug\32002395-ArifMertMisir-lab1.pdb
