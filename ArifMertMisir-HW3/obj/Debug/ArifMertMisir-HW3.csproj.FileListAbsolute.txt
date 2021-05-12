@@ -1,0 +1,33 @@
+C:\Users\Admin\Desktop\ArifMertMisir-HW3\bin\Debug\ArifMertMisir-HW3.exe.config
+C:\Users\Admin\Desktop\ArifMertMisir-HW3\bin\Debug\ArifMertMisir-HW3.exe
+C:\Users\Admin\Desktop\ArifMertMisir-HW3\bin\Debug\ArifMertMisir-HW3.pdb
+C:\Users\Admin\Desktop\ArifMertMisir-HW3\obj\Debug\ArifMertMisir-HW3.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ArifMertMisir-HW3\obj\Debug\ArifMertMisir_HW3.Form1.resources
+C:\Users\Admin\Desktop\ArifMertMisir-HW3\obj\Debug\ArifMertMisir_HW3.Properties.Resources.resources
+C:\Users\Admin\Desktop\ArifMertMisir-HW3\obj\Debug\ArifMertMisir-HW3.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ArifMertMisir-HW3\obj\Debug\ArifMertMisir-HW3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ArifMertMisir-HW3\obj\Debug\ArifMertMisir-HW3.exe
+C:\Users\Admin\Desktop\ArifMertMisir-HW3\obj\Debug\ArifMertMisir-HW3.pdb
+C:\Users\Admin\Desktop\ArifMertMisir-HW3\obj\Debug\ArifMertMisir_HW3.Form2.resources
+C:\Users\Admin\Desktop\BAU\CMP4871(Visual Programming- .NET)\ArifMertMisir-HW3\bin\Debug\ArifMertMisir-HW3.exe.config
+C:\Users\Admin\Desktop\BAU\CMP4871(Visual Programming- .NET)\ArifMertMisir-HW3\bin\Debug\ArifMertMisir-HW3.exe
+C:\Users\Admin\Desktop\BAU\CMP4871(Visual Programming- .NET)\ArifMertMisir-HW3\bin\Debug\ArifMertMisir-HW3.pdb
+C:\Users\Admin\Desktop\BAU\CMP4871(Visual Programming- .NET)\ArifMertMisir-HW3\obj\Debug\ArifMertMisir-HW3.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\BAU\CMP4871(Visual Programming- .NET)\ArifMertMisir-HW3\obj\Debug\ArifMertMisir_HW3.Form1.resources
+C:\Users\Admin\Desktop\BAU\CMP4871(Visual Programming- .NET)\ArifMertMisir-HW3\obj\Debug\ArifMertMisir_HW3.Form2.resources
+C:\Users\Admin\Desktop\BAU\CMP4871(Visual Programming- .NET)\ArifMertMisir-HW3\obj\Debug\ArifMertMisir_HW3.Properties.Resources.resources
+C:\Users\Admin\Desktop\BAU\CMP4871(Visual Programming- .NET)\ArifMertMisir-HW3\obj\Debug\ArifMertMisir-HW3.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\BAU\CMP4871(Visual Programming- .NET)\ArifMertMisir-HW3\obj\Debug\ArifMertMisir-HW3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BAU\CMP4871(Visual Programming- .NET)\ArifMertMisir-HW3\obj\Debug\ArifMertMisir-HW3.exe
+C:\Users\Admin\Desktop\BAU\CMP4871(Visual Programming- .NET)\ArifMertMisir-HW3\obj\Debug\ArifMertMisir-HW3.pdb
+C:\Users\Admin\Desktop\BAU\20-21 Fall\CMP4871(Visual Programming- .NET)\ArifMertMisir-HWs\ArifMertMisir-HW3\bin\Debug\ArifMertMisir-HW3.exe.config
+C:\Users\Admin\Desktop\BAU\20-21 Fall\CMP4871(Visual Programming- .NET)\ArifMertMisir-HWs\ArifMertMisir-HW3\bin\Debug\ArifMertMisir-HW3.exe
+C:\Users\Admin\Desktop\BAU\20-21 Fall\CMP4871(Visual Programming- .NET)\ArifMertMisir-HWs\ArifMertMisir-HW3\bin\Debug\ArifMertMisir-HW3.pdb
+C:\Users\Admin\Desktop\BAU\20-21 Fall\CMP4871(Visual Programming- .NET)\ArifMertMisir-HWs\ArifMertMisir-HW3\obj\Debug\ArifMertMisir-HW3.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\BAU\20-21 Fall\CMP4871(Visual Programming- .NET)\ArifMertMisir-HWs\ArifMertMisir-HW3\obj\Debug\ArifMertMisir_HW3.Form1.resources
+C:\Users\Admin\Desktop\BAU\20-21 Fall\CMP4871(Visual Programming- .NET)\ArifMertMisir-HWs\ArifMertMisir-HW3\obj\Debug\ArifMertMisir_HW3.Form2.resources
+C:\Users\Admin\Desktop\BAU\20-21 Fall\CMP4871(Visual Programming- .NET)\ArifMertMisir-HWs\ArifMertMisir-HW3\obj\Debug\ArifMertMisir_HW3.Properties.Resources.resources
+C:\Users\Admin\Desktop\BAU\20-21 Fall\CMP4871(Visual Programming- .NET)\ArifMertMisir-HWs\ArifMertMisir-HW3\obj\Debug\ArifMertMisir-HW3.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\BAU\20-21 Fall\CMP4871(Visual Programming- .NET)\ArifMertMisir-HWs\ArifMertMisir-HW3\obj\Debug\ArifMertMisir-HW3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BAU\20-21 Fall\CMP4871(Visual Programming- .NET)\ArifMertMisir-HWs\ArifMertMisir-HW3\obj\Debug\ArifMertMisir-HW3.exe
+C:\Users\Admin\Desktop\BAU\20-21 Fall\CMP4871(Visual Programming- .NET)\ArifMertMisir-HWs\ArifMertMisir-HW3\obj\Debug\ArifMertMisir-HW3.pdb
