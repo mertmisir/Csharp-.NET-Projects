@@ -1,0 +1,15 @@
+C:\Users\mertm\Desktop\CodingTask\bin\Debug\net6.0\CodingTask.exe
+C:\Users\mertm\Desktop\CodingTask\bin\Debug\net6.0\CodingTask.deps.json
+C:\Users\mertm\Desktop\CodingTask\bin\Debug\net6.0\CodingTask.runtimeconfig.json
+C:\Users\mertm\Desktop\CodingTask\bin\Debug\net6.0\CodingTask.dll
+C:\Users\mertm\Desktop\CodingTask\bin\Debug\net6.0\CodingTask.pdb
+C:\Users\mertm\Desktop\CodingTask\obj\Debug\net6.0\CodingTask.csproj.AssemblyReference.cache
+C:\Users\mertm\Desktop\CodingTask\obj\Debug\net6.0\CodingTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mertm\Desktop\CodingTask\obj\Debug\net6.0\CodingTask.AssemblyInfoInputs.cache
+C:\Users\mertm\Desktop\CodingTask\obj\Debug\net6.0\CodingTask.AssemblyInfo.cs
+C:\Users\mertm\Desktop\CodingTask\obj\Debug\net6.0\CodingTask.csproj.CoreCompileInputs.cache
+C:\Users\mertm\Desktop\CodingTask\obj\Debug\net6.0\CodingTask.dll
+C:\Users\mertm\Desktop\CodingTask\obj\Debug\net6.0\refint\CodingTask.dll
+C:\Users\mertm\Desktop\CodingTask\obj\Debug\net6.0\CodingTask.pdb
+C:\Users\mertm\Desktop\CodingTask\obj\Debug\net6.0\CodingTask.genruntimeconfig.cache
+C:\Users\mertm\Desktop\CodingTask\obj\Debug\net6.0\ref\CodingTask.dll
